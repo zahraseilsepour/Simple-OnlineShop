@@ -1,0 +1,13 @@
+C:\Users\Asus\source\repos\OnlineShop\Shop.Application\bin\Debug\net6.0\Shop.Application.deps.json
+C:\Users\Asus\source\repos\OnlineShop\Shop.Application\bin\Debug\net6.0\Shop.Application.dll
+C:\Users\Asus\source\repos\OnlineShop\Shop.Application\bin\Debug\net6.0\ref\Shop.Application.dll
+C:\Users\Asus\source\repos\OnlineShop\Shop.Application\bin\Debug\net6.0\Shop.Application.pdb
+C:\Users\Asus\source\repos\OnlineShop\Shop.Application\obj\Debug\net6.0\Shop.Application.GlobalUsings.g.cs
+C:\Users\Asus\source\repos\OnlineShop\Shop.Application\obj\Debug\net6.0\Shop.Application.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\OnlineShop\Shop.Application\obj\Debug\net6.0\Shop.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\OnlineShop\Shop.Application\obj\Debug\net6.0\Shop.Application.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\OnlineShop\Shop.Application\obj\Debug\net6.0\Shop.Application.AssemblyInfo.cs
+C:\Users\Asus\source\repos\OnlineShop\Shop.Application\obj\Debug\net6.0\Shop.Application.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\OnlineShop\Shop.Application\obj\Debug\net6.0\Shop.Application.dll
+C:\Users\Asus\source\repos\OnlineShop\Shop.Application\obj\Debug\net6.0\ref\Shop.Application.dll
+C:\Users\Asus\source\repos\OnlineShop\Shop.Application\obj\Debug\net6.0\Shop.Application.pdb

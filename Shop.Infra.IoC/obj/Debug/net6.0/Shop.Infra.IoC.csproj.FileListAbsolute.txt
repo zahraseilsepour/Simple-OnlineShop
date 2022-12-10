@@ -1,0 +1,13 @@
+C:\Users\Asus\source\repos\OnlineShop\Shop.Infra.IoC\bin\Debug\net6.0\Shop.Infra.IoC.deps.json
+C:\Users\Asus\source\repos\OnlineShop\Shop.Infra.IoC\bin\Debug\net6.0\Shop.Infra.IoC.dll
+C:\Users\Asus\source\repos\OnlineShop\Shop.Infra.IoC\bin\Debug\net6.0\ref\Shop.Infra.IoC.dll
+C:\Users\Asus\source\repos\OnlineShop\Shop.Infra.IoC\bin\Debug\net6.0\Shop.Infra.IoC.pdb
+C:\Users\Asus\source\repos\OnlineShop\Shop.Infra.IoC\obj\Debug\net6.0\Shop.Infra.IoC.GlobalUsings.g.cs
+C:\Users\Asus\source\repos\OnlineShop\Shop.Infra.IoC\obj\Debug\net6.0\Shop.Infra.IoC.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\OnlineShop\Shop.Infra.IoC\obj\Debug\net6.0\Shop.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\OnlineShop\Shop.Infra.IoC\obj\Debug\net6.0\Shop.Infra.IoC.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\OnlineShop\Shop.Infra.IoC\obj\Debug\net6.0\Shop.Infra.IoC.AssemblyInfo.cs
+C:\Users\Asus\source\repos\OnlineShop\Shop.Infra.IoC\obj\Debug\net6.0\Shop.Infra.IoC.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\OnlineShop\Shop.Infra.IoC\obj\Debug\net6.0\Shop.Infra.IoC.dll
+C:\Users\Asus\source\repos\OnlineShop\Shop.Infra.IoC\obj\Debug\net6.0\ref\Shop.Infra.IoC.dll
+C:\Users\Asus\source\repos\OnlineShop\Shop.Infra.IoC\obj\Debug\net6.0\Shop.Infra.IoC.pdb

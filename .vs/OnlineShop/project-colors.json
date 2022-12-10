@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "df377385-ff3a-4a35-afdb-4a2d369b4dc3": {
+      "ProjectGuid": "df377385-ff3a-4a35-afdb-4a2d369b4dc3",
+      "DisplayName": "Shop.EndPoint",
+      "ColorIndex": 0
+    },
+    "fa9ce040-b824-456c-8c1c-172908eae250": {
+      "ProjectGuid": "fa9ce040-b824-456c-8c1c-172908eae250",
+      "DisplayName": "Shop.InfraData",
+      "ColorIndex": 1
+    },
+    "d682e5c0-9ff8-426c-97f5-2a5c540df4dd": {
+      "ProjectGuid": "d682e5c0-9ff8-426c-97f5-2a5c540df4dd",
+      "DisplayName": "Shop.Infra.IoC",
+      "ColorIndex": 2
+    },
+    "3a073a98-cce4-4c79-8c95-3bcf5a993415": {
+      "ProjectGuid": "3a073a98-cce4-4c79-8c95-3bcf5a993415",
+      "DisplayName": "Shop.Domain",
+      "ColorIndex": 3
+    },
+    "9bb4cf5d-b0e2-4666-a0ea-98bb24d8daf0": {
+      "ProjectGuid": "9bb4cf5d-b0e2-4666-a0ea-98bb24d8daf0",
+      "DisplayName": "Shop.Application",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
